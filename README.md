@@ -46,9 +46,9 @@ Connect the output to:
 - Notion database → log historical valuations
 
 ## Screenshot
-![scenario](Screenshot 2026-05-19 143304.png)
+![scenario](Screenshot%202026-05-19%20143304.png)
 
 ## Built by Ozan Atmar
 I build Make automations and web apps for founders.  
-Site: https://ozan.atmar.bg  
-Email: ozanatmar@atmar.bg
+Site: https://ozan.at/mar  
+Email: ozanatmar@gmail.com
