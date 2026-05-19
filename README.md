@@ -12,7 +12,7 @@ with values, clubs, and an optional flag/icon prefix.
 - A Transfermarkt URL (any market value page)
 
 ## Setup
-1. Download workflow.json
+1. [Download workflow.json](make-transfermarkt-to-x-post-market-value.json)
 2. In Make.com: Create scenario → ••• → Import Blueprint → select the file
 3. Run the scenario with two inputs:
    - URL: any Transfermarkt market value page  
